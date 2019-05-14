@@ -1,6 +1,0 @@
-E:\All_Project\LinearSearchAlgorithm\LinearSearchAlgorithm\bin\Debug\LinearSearchAlgorithm.exe.config
-E:\All_Project\LinearSearchAlgorithm\LinearSearchAlgorithm\bin\Debug\LinearSearchAlgorithm.exe
-E:\All_Project\LinearSearchAlgorithm\LinearSearchAlgorithm\bin\Debug\LinearSearchAlgorithm.pdb
-E:\All_Project\LinearSearchAlgorithm\LinearSearchAlgorithm\obj\Debug\LinearSearchAlgorithm.csprojResolveAssemblyReference.cache
-E:\All_Project\LinearSearchAlgorithm\LinearSearchAlgorithm\obj\Debug\LinearSearchAlgorithm.exe
-E:\All_Project\LinearSearchAlgorithm\LinearSearchAlgorithm\obj\Debug\LinearSearchAlgorithm.pdb

@@ -14,6 +14,7 @@ namespace LinearSearchAlgorithm
                 if (inputNumber == numbers[i])
                 {
                     isAvailable = true;
+                    //MAKE SURE WHENEVER THE NUMBER IS FOUND IN THE GIVEN ARRAY LET THE CONTROL GO BEYOND THE LOOP
                     return isAvailable;
                 }
             }
