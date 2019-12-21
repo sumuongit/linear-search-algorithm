@@ -9,7 +9,7 @@ namespace LinearSearchAlgorithm
 
         public bool DoLinearSearch(int inputNumber)
         {
-            for (int i = 1; i < numbers.Length; i++)
+            for (int i = 0; i < numbers.Length; i++)
             {
                 if (inputNumber == numbers[i])
                 {
